@@ -1,0 +1,12 @@
+"""
+BMT Practice Project
+A practice project for learning and development.
+"""
+
+def main():
+    """Main entry point of the application."""
+    print("Welcome to BMT Practice!")
+    # Add your code here
+
+if __name__ == "__main__":
+    main()
